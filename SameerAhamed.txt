@@ -1,16 +1,13 @@
 <span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cd SameerAhamed/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->SameerAhamed.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->SameerAhamed.txt<br/><br/>                                                                 "<span id="k">This site tells who am I</span>". <!-- sjkfhskjf -->
 
 <p>I am a cyber security enthusiast.</p>
 <p>just exploring  and learning new things.</p> 
-<p>Now currently working with linux ,learning some new stuffs</p>
-<p>having basic knowledge of programming </p>
+<p>Now currently working with linux ,learning some new stuffs.</p>
+<p>having basic knowledge of programming , </p>
 
 
 <span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cat CONTACT.txt
 <p> Social Handles: <br> <a href="https://instagram.com/0__ahmed__1?utm_medium=copy_link">Instagram</a> <br> <a href="https://twitter.com/0__anonymous__1?t=8w0HcyP7vgK3gio-4nyNXw&s=09">Twitter</a></p>
 
-
-
-<p>Cheers!</p>
+<span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> Cheers!
