@@ -2,9 +2,9 @@
 <span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->SameerAhamed.txt<br/><br/>                                                                 "<span id="k">This site tells who am I</span>". <!-- sjkfhskjf -->
 
 <p>I am a cyber security enthusiast.</p>
-<p>just exploring  and learning new things.</p> 
-<p>Now currently working with linux ,learning some new stuffs.</p>
-<p>having basic knowledge of programming , </p>
+<p>Just exploring  and learning new things.</p> 
+<p>Now currently working with linux and learning some new stuffs.</p>
+<p>Having basic knowledge of programming. </p>
 
 
 <span id="a">root@ahmed</span>:<span id="b">~</span><span id="c">$</span> cat CONTACT.txt
